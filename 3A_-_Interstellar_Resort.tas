@@ -169,63 +169,54 @@ console load Benjamanian/Celeste_on_the_Moon/3-Interstellar_Resort
    1,R
    1,R,J,G
    7,R
-  12,R,J
-  17,R,D,X
-   2,R
-   1,L
-   5,L,D
-   5,L
-   5,R,Z
+   6,R,J
+  26,R,D
+  12,G
+   9,L
+   4,R,D
+   6,R,Z
    1,R,J
-   1,R,K,G
-   8,R
    1,R,K
+   1,R,J
+   1,R,D,K
   40
 
 #lvl_02-c
-   3,R,K
-   2,R
-   9,R,D,J
-   5,R
-   4,R,K
-  16,R,D,X
-  10,R,J
-   2,R
-  15,R,D,X
-   1,R,J
-   6,R
-   1,R,K
+   5,R,K
    4,R
-   9,R,J
+   7,R,K
    2,R
   15,R,D,X
+   3,R
+   1,R,D
    1,R,J
-  13,R,D,X
+   1,R
+  18,R,J
+   4,R,K
+  12,R,D,X
   40
 
 #lvl_04-c
-   1,R,D,X
-   4,R,J
-  11,U,X
-  13,J
-  17,L
-   1,J
-   2,L,J
-  17,J
-   1
-  49,G
-   1,D,G
-  10,J,G
-   1
+   4,R
+  15,U,X
+  22
+  16,J
+   9,L,J
+  26,G
+  38,U,G
+   4
   15,U,Z
    2,J
   10,R,J
-   1,K,G
+   2,K,G
    7
-  12,U,X
+   1,J
+   1
+  11,U,X
   40
 
 #lvl_04-d
+   1,L,K
    7,L,J
    1,S
    1,D,J
@@ -239,22 +230,21 @@ console load Benjamanian/Celeste_on_the_Moon/3-Interstellar_Resort
    5,R,D,X
    1,L,J
    4,L
-   1,L,K
+   2,L,K
    3,L
    1,L,J
-   9,L,D,X
+   8,L,D,X
    1,L,J,G
    2,L,K,G
    1,L,J,G
    1,L,K,G
-   6,L
-   1,L,K
+   4,L
   40
 
 #lvl_02-d
    4,L
-   1,L,J
-   2,L
+   3,L,J
+   1,L
   10,L,U,X
    1,L,K,G
    1,L,J,G
@@ -262,50 +252,54 @@ console load Benjamanian/Celeste_on_the_Moon/3-Interstellar_Resort
    1,L,K,G
    2,L,J,G
    7,L
-   2,L,D
+   4,L,D
    6,L,J
-  15,L,D,X
-   6,L,D,J
-   1,J
-  15,D,X
+   3
+  16,L,D,X
+   1,L,D,J
+   6,L
+  17,D,X
    5,L,D,C
    1,L,J
    1,L
    2,L,K
    1,L
    1,L,K
-   3,L
+   1
+   2,L
    3,L,D,J
-   8,L
-   1,L,K
+   6,L
+   3,L,K
+   1
    1,L
    1,R
   15,L,D,X
-   1,D
+   1,R
   17,R,J
    5,R,K,G
   15,U,X
    1,L
    4,L,J
-  25,L,D
+  12,L
+   1,L,J
+  12,L,D
    1,R,D
    8,L,D
   10,L,X
   11,L,J
-   5,L
-   4,L,K
+   6,L
+   3,L,K
    1,L
    7,L,K
-  24,L,Z
-  23,L,C
+  25,L,Z
+  24,L,C
   30,L,X
    5,L,D
    1,L
-   1,L,D
   11,L,J
    5,L,Z
    4,L,J
-   3,L
+   4,L
   40
 
 #lvl_00-d
@@ -580,5 +574,6 @@ console load Benjamanian/Celeste_on_the_Moon/3-Interstellar_Resort
    1,S
    1,D,J
   18
-ChapterTime: 1:00.911(3583)
+ChapterTime: 1:00.758(3574)
 #Original TAS by LMJacks
+#resync and improvement by baamboo
